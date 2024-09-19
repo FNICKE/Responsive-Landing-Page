@@ -4,6 +4,13 @@ Deployment Link : https://fnicke.github.io/Responsive-Landing-page/
 
 ---
 
+# My Project
+
+Here’s an overview of my project.
+
+![Project Screenshot](img/Screenshot_2024-09-19-11-15-27-50_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+
+
 **Responsive Landing Page Overview**
 
 Our responsive landing page is crafted to provide a flawless user experience on any device, whether it’s a desktop, tablet, or smartphone. It features a clean, modern design with intuitive navigation and a focus on clear, compelling calls to action.
